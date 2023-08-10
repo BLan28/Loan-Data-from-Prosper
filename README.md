@@ -1,8 +1,6 @@
-# (Dataset Exploration Title)
-## by (your name here)
-
-
-# Prosper Lending Dataset
+# Loan Data From Prosper
+## by Lan Nguyen
+## (This is a Project from Udacity)
 
 Welcome to the Prosper Lending Dataset! This dataset offers a comprehensive view of loan activities within the Prosper lending platform. With 83,982 loan records and 21 distinct attributes, this dataset is a valuable resource for uncovering insights into borrower behaviors, lending trends, and credit assessment strategies.
 
