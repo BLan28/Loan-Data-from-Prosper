@@ -1,5 +1,6 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Loan Data From Prosper
+## by Lan Nguyen
+## (This is a Project from Udacity)
 
 
 # Prosper Lending Dataset
